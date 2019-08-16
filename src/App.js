@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jeruseo
+          Jeruseo - new site
         </a>
       </header>
     </div>
